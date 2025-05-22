@@ -1,5 +1,8 @@
 ## Hi 👋 My name is Lev Marentsov
+
+
 ## Python developer
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/lev-marentsov-944a85366/">
@@ -26,6 +29,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Pytest" alt="Pytest"   width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pytest" alt="Pytest"   width="60" height="60"/>&nbsp;
 </div>
+
+## My projects: 
+
+### [Task manager](https://github.com/marentsov/python-project-52)
+##### Task Manager is a web application built with Python and Django that allows users to manage tasks, statuses, and labels.
+
+
+### [Page analyzer](https://github.com/marentsov/python-project-83)
+##### Page Analyzer is a website that analyzes specified pages for SEO suitability.
+
+****
+
+🌍 I'm based in Moscow, Russia
+
+
+✉️ You can contact me at l.marentsov@ya.ru or telegram: @fartunatec
+
 
 
 
