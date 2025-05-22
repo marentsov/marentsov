@@ -10,4 +10,4 @@
   </a>
   
 ### Education:
-- Python developer, [Hexlet](https://ru.hexlet.io): [certificate]()
+- Python developer, [Hexlet](https://ru.hexlet.io): [certificate](https://github.com/marentsov/marentsov/blob/main/IMG_0958.PNG)
